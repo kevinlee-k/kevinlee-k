@@ -1,16 +1,16 @@
-repository: BYR-Navi/BYR-Navi
-repository_url: https://github.com/BYR-Navi/BYR-Navi
+repository: kevinlee-k/kevinlee-k
+repository_url: https://github.com/kevinlee-k/kevinlee-k
 
-timezone: Asia/Shanghai
+timezone: Asia/SZ
 lang: zh_CN
 
-title: 北邮人导航 · BYR-Navi
-alias_en: BYR-Navi
-alias_cn: 北邮人导航
-description: A Navigation Website for BYR
-keywords: 北邮人导航, BYR-Navi, BYR, BUPT, Navi, Navigation
-url: https://byr-navi.com
-established_at: "2016-10-01T00:00+08:00"
+title: 设计狗 · kevinlee-k
+alias_en: kevinlee
+alias_cn: 设计狗
+description: A Navigation Website for kevinlee
+keywords: 设计狗, kevinlee, desinger, design,
+url: https://github.com/kevinlee-k/kevinlee-k
+established_at: "2023-10-01T00:00+08:00"
 
 author: iROCKBUNNY
 author_url: https://irockbunny.com
