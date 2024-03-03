@@ -1,13 +1,13 @@
 - categories:
   - name: 欧美女式
     links:
-    - name: 淘宝
+    - name: LV
       style: orange
-      url: https://www.taobao.com/
+      url: https://ap.louisvuitton.com/
 
-    - name: 天猫
+    - name: gucci
       style: red
-      url: https://www.tmall.com/
+      url: https://www.gucci.com/
 
     - name: 京东
       style: basic
